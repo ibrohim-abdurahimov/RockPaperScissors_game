@@ -29,6 +29,9 @@ button {
   margin: 5px;
   border: none;
 }
+button:active{
+  transform: scale(.95);
+}
 
 .result {
   margin-top: 20px;
